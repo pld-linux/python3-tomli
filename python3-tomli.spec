@@ -6,7 +6,7 @@ Summary:	A lil' TOML parser
 Summary(pl.UTF-8):	Malutki parser TOML-a
 Name:		python3-tomli
 Version:	2.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/tomli/
